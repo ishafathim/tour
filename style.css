@@ -1,0 +1,130 @@
+*{
+    padding: 0px;
+    margin: 0px;
+}
+#home{
+
+    height: 900px;
+ 
+ background-image:url("https://images.pexels.com/photos/2573506/pexels-photo-2573506.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1");
+background-repeat: no-repeat;
+background-size: cover;    
+position: relative;
+}
+.home
+{
+    background-color: blanchedalmond;
+    height: 80px;
+    width: 1500px;
+    position: fixed;
+
+}
+ul li{
+    display: inline;
+    margin: 30px;
+
+
+}
+li{
+    font-weight: bolder;
+}
+#ul
+{margin-left: 60%;
+margin-top: 20px;
+}
+#heading{
+    
+    background-color: blue;
+}
+    
+
+.box{
+    display: grid;
+    grid-template-columns:repeat(2,1fr);
+    grid-template-columns:repeat(2,1fr);
+    margin-top: 20px;
+
+  
+}
+
+
+.country img{
+    width: 500px;
+    height: 300px;
+}
+.country-name
+{
+    background-color: blanchedalmond;
+    width: 500px;
+}
+.country{
+    
+    padding: 5% 5% 5% 5%;
+}
+#destination h1{
+    color: blue;
+    margin-top: 5%;
+    margin-left: 40%;
+}
+#contact h3{
+    color: blue;
+
+}
+.smedia{
+    
+    
+    font-weight: 100;
+    font-size: large;
+    width: 200px;
+    height: 200px;
+
+}
+.number{
+    margin-top: 40px;
+    margin-bottom:40px;
+}
+.facebook{
+    margin-bottom: 40px;
+}
+.instagram{
+    margin-bottom: 40px;
+}
+.box3{
+    
+
+display: grid;
+grid-template-columns: repeat(2,1fr);
+
+}
+.form{
+    
+    height: 270px;
+    width: 400px;
+    font: italic;
+    
+}
+.name{
+    padding-left: 110px;
+    margin-bottom: 5px;
+}
+input{
+    
+    margin: 30px;
+    margin-top: 1px;
+
+   
+    
+}
+label{
+    width: 100px;
+    
+}
+button{
+    background-color: aqua;
+    
+}
+select{
+    margin-bottom: 20px;
+}
+
+
